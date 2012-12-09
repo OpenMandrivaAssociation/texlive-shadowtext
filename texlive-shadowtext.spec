@@ -47,3 +47,12 @@ and positioning of the shadow are customisable.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Fri Aug 10 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.3-2
++ Revision: 813752
+- Update to latest release.
+- Import texlive-shadowtext
+- Import texlive-shadowtext
+
