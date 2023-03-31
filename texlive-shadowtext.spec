@@ -1,6 +1,6 @@
 Name:		texlive-shadowtext
 Version:	26522
-Release:	1
+Release:	2
 Summary:	shadowtext
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/shadowtext
